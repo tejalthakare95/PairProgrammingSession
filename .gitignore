@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/CSharpCoding/bin/Debug/net8.0
+/CSharpCoding/obj/Debug/net8.0/ref
+/CSharpCoding/obj/Debug/net8.0/refint
